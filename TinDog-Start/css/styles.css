@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+h1 {
+    font-family: Montserrat, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+#title {
+    background-color: #ff4568;
+}
+
+.iphone {
+    width: 30%;
+    transform: rotate(20deg);
+}
+
+#testimonial {
+    background-color: #e4d05f;
+    text-align: center;
+}
+
+.testimonial-img {
+    width: 30%;
+}
